@@ -1,0 +1,30 @@
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = git@github.com:wincent/command-t.git
+[submodule "bundle/lightline"]
+	path = bundle/lightline
+	url = git@github.com:itchyny/lightline.vim.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = git@github.com:SirVer/ultisnips.git
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
+	url = git@github.com:honza/vim-snippets.git
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = git@github.com:Valloric/YouCompleteMe.git
+[submodule "bundle/vim-go"]
+	path = bundle/vim-go
+	url = git@github.com:fatih/vim-go.git
+[submodule "bundle/bundle/vim-markdown"]
+	path = bundle/bundle/vim-markdown
+	url = git@github.com:plasticboy/vim-markdown.git
+[submodule "bundle/Dockerfile"]
+	path = bundle/Dockerfile
+	url = git@github.com:ekalinin/Dockerfile.vim.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git@github.com:majutsushi/tagbar.git
