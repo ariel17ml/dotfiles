@@ -1,0 +1,11 @@
+# Custom snippets for Go
+
+priority -10
+
+# shorthand variable declaration
+snippet tr "t.Run("sub-test-name", func(t *testing.T) { /* some code */ })"
+	t.Run("${0:sub-name}", func(t *testing.T) {
+		${1}
+	})
+endsnippet
+

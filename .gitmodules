@@ -28,3 +28,12 @@
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = git@github.com:majutsushi/tagbar.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git@github.com:vim-syntastic/syntastic.git
+[submodule "bundle/vim-gitbranch"]
+	path = bundle/vim-gitbranch
+	url = git@github.com:itchyny/vim-gitbranch.git
+[submodule "bundle/nginx.vim"]
+	path = bundle/nginx.vim
+	url = git@github.com:chr4/nginx.vim.git
